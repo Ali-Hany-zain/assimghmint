@@ -757,6 +757,7 @@ body {
 .second-section .big .right-section .second-div .taps .one:hover {
    transform: translate(-3px, -5px);
    box-shadow: 3px 7px black;
+   background-color:#ffdf20 ;
 }
 
 
@@ -771,6 +772,7 @@ body {
 .second-section .big .right-section .second-div .taps .two:hover {
    transform: translate(-3px, -5px);
    box-shadow: 3px 7px black;
+   background-color: #7bf1a8;
 }
 
 
@@ -785,6 +787,7 @@ body {
 .second-section .big .right-section .second-div .taps .three:hover {
    transform: translate(-3px, -5px);
    box-shadow: 3px 7px black;
+   background-color: #fda5d5;
 }
 
 .second-section .big .right-section .second-div .taps .four {
@@ -798,6 +801,7 @@ body {
 .second-section .big .right-section .second-div .taps .four:hover {
    transform: translate(-3px, -5px);
    box-shadow: 3px 7px black;
+   background-color: #8ec5ff;
 }
 
 .second-section .big .right-section .second-div .taps .five {
@@ -811,6 +815,7 @@ body {
 .second-section .big .right-section .second-div .taps .five:hover {
    transform: translate(-3px, -5px);
    box-shadow: 3px 7px black;
+   background-color: #f3e8ff;
 }
 
 
@@ -1228,6 +1233,7 @@ body {
    width: 100%;
    background-color: #f5f5f5;
    border: 3px solid black;
+   padding-bottom: 40px;
 
 }
 
